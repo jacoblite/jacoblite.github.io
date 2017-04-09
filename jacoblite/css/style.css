@@ -1,0 +1,21 @@
+html {
+  background-color: white;
+}
+/*hash=id*/
+/*dot=class*/
+#imagelogo1 {
+  height: 50%;
+  width: 50%;
+}
+#facepic {
+  height: 200px;
+}
+
+.image-center {
+  margin: auto;
+  display: block;
+}
+
+.text-center {
+  text-align:center;
+}

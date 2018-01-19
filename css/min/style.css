@@ -69,11 +69,11 @@ body {
 	animation-timing-function: ease-in-out
  }
  
-@keyframes blink {0%}
- 
-100% {opacity: .5}
- 
-{}
+@keyframes blink {
+    0% {opacity: 0}
+    49% {opacity: 0}
+    50% {opacity: 1}
+}
 
 	.intro {
 		width: 100vw;

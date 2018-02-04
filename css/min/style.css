@@ -31,7 +31,7 @@ z-index: 5;
 .slide-d,body {color: #0C2359; z-index: 4;}
 
 .slide-a,body {color: #FFFFFF; z-index: 4;}
-.slide-d,body {color: #FFFFFF; z-index: 4;}
+/* .slide-d,body {color: #FFFFFF; z-index: 4;} */
  /* DONE */
 
 .slide-c p::after,.slide-d a::after {content: ""}

@@ -1,0 +1,76 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+div.a {
+    text-align:center;
+}
+
+div.b {
+    text-align:center;
+}
+
+div.c {
+    text-align:center;
+}
+
+div.d {
+    text-align:center;
+}
+
+div.center{
+    text-align: center;
+}
+
+ul{
+    display:inline-block;
+    padding-left:0;
+    text-align:left;
+    
+}
+
+div.instagram{
+    text-align:center;
+}
+
+/*instagram via lightwidget*/
+.lightwidget-widget {
+    width:100%
+    border:0%
+    overflow:hidden;
+}
+
+/* form */
+input[type=text],select,textarea {
+    text-align:center;
+    /* for contact form */
+    width: 100%;
+    padding:12px;
+    border:1px solid #ccc; /*grey border*/
+    border-radius:4px;
+    box-sizing:border-box;
+    margin-top:6px;
+    margin-bottom:16px;
+    resize: vertical /*user can resize vertically*/  
+}
+
+/*submit button */
+input[type=submit] {
+    background-color:#3E8B93;
+    color:white;
+    padding:12px 20px;
+    border:none;
+    border-radius:4px;
+    cursor:pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #3E8B93;
+}
+
+/*background color and padding for form*/
+.countainer {
+    border-radius:5px;
+    border-color: #f2f2f2;
+    padding: 20px;
+}
